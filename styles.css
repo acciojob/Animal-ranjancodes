@@ -1,16 +1,8 @@
-#photo-heading{
-	text-align:center;
-	color:white;
-	text-transform:uppercase;
-}
 img {
-    width: 32%;
-    border-radius: 20px;
-    padding: 2px;
+	width: 32%;
+	border-radius: 20px;
 }
-/* 3 */
-.contain {
-    background-color: #444;
-    padding: 20px;
+.container {
+	background-color: #444; 
+	padding: 20px;
 }
-
