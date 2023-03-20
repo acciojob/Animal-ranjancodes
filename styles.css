@@ -3,7 +3,7 @@ body {
     background-color: #444;
     padding: 20px;
 }
-h1 {
+#photo-heading {
     text-align: center;
     color: white;
     text-transform:uppercase;
